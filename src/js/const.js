@@ -1,5 +1,5 @@
-export const APP_ID = '9DA1B1F4-0BE6-4DA8-82C5-2E81DAB56F23';
-export const USER_ID = 'user_id';
+export const APP_ID = 'F9A67AAC-2630-4156-988F-A0E067907189';
+export const USER_ID = 'amanda';
 export const DISPLAY_NONE = 'none';
 export const DISPLAY_BLOCK = 'block';
 export const DISPLAY_FLEX = 'flex';
